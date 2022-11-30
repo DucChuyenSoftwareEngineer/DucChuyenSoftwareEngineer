@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+1, Research -> Study -> Developer ->Product
+2, Alway change skill about Technology and Mindset Product
+3, Don't be afraid to challenge
+  
 <!---
 DucChuyenSoftwareEngineer/DucChuyenSoftwareEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
